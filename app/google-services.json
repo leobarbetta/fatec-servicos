@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "398110910257",
+    "firebase_url": "https://servicos-9ea1f.firebaseio.com",
+    "project_id": "servicos-9ea1f",
+    "storage_bucket": "servicos-9ea1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398110910257:android:bffc92cc4f76b1b6",
+        "android_client_info": {
+          "package_name": "br.com.example.servicos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398110910257-u3lj611qfib43mbrlpo4390m05jee6e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.example.servicos",
+            "certificate_hash": "f2e04dbad58d537a0ae40da7e75ef42a43ea1a2b"
+          }
+        },
+        {
+          "client_id": "398110910257-4d9osppmgq9dtp9680t93en8dedf80e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwNBr7V0LoWDx9xlkLCu3EBtBO57yBTZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398110910257-4d9osppmgq9dtp9680t93en8dedf80e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398110910257:android:04164a8c6faf02d0",
+        "android_client_info": {
+          "package_name": "br.com.fatec.servico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398110910257-ip3g04sbbfiqf7nqffi6e43blbh6hosb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fatec.servico",
+            "certificate_hash": "f2e04dbad58d537a0ae40da7e75ef42a43ea1a2b"
+          }
+        },
+        {
+          "client_id": "398110910257-boi56br7j7bmapk89l9jorgaitl1o2n7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fatec.servico",
+            "certificate_hash": "cc59f137c872b0ed52a906d79edbedb9bcb758b8"
+          }
+        },
+        {
+          "client_id": "398110910257-4d9osppmgq9dtp9680t93en8dedf80e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwNBr7V0LoWDx9xlkLCu3EBtBO57yBTZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398110910257-4d9osppmgq9dtp9680t93en8dedf80e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
